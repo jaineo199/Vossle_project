@@ -1,0 +1,14 @@
+.side1{
+    font-size: 45px;
+/* margin: 0; */
+margin-left: 50px;
+padding: 30px 0 35px;
+font-weight: 700;
+}
+
+.side2{
+    font-size: 24px;
+/* margin: 0; */
+margin-left: 50px;
+padding: 0 0 35px;
+}

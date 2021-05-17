@@ -1,0 +1,22 @@
+.heading{
+   margin-top: 30px;
+}
+
+.coding{
+    margin: 0;
+    padding: 0;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 60px;
+    color: #605f5f;
+    text-transform: capitalize;
+}
+
+.ar{
+  
+    font-weight: 600;
+    font-size: 65px;
+    line-height: 75px;
+    color: #404040;
+    text-transform: capitalize;
+}

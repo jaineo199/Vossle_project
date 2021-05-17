@@ -1,0 +1,28 @@
+.mark1{
+    max-width: 90px;
+    box-sizing: border-box;
+    vertical-align: middle;
+}
+
+.mark2{
+    margin: 0;
+padding: 10px;
+text-align: center;
+}
+
+.text{
+    font-size: 18px;
+padding-top: 20px;
+font-weight: 500;
+color: #605f5f;
+margin-left: 150px;
+}
+
+.text2{
+    margin-left: 150px;
+}
+
+.btn{
+    width: 20%;
+    margin-left: 500px;
+}

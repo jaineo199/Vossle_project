@@ -1,0 +1,23 @@
+.welcome{
+    font-size: 42px;
+    margin: 0;
+    padding: 0 0 25px;
+    color: #000;
+    font-weight: 600;
+    line-height: 56px;
+}
+
+.welcome2{
+    font-size: 20px;
+    margin: 0;
+    padding: 2px 0;
+    color: #3d3b3c;
+    line-height: 32px;
+}
+
+.cld{
+    padding: 150px 0 0px;
+float: left;
+text-align: center;
+
+}

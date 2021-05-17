@@ -1,0 +1,29 @@
+.img{
+    margin: 2.5em auto 0;
+width: 100%;
+max-width: 9.3em;
+}
+
+.price{
+    color: #2f5a77;
+font-size: 60px;
+margin: 0 auto 0;
+font-weight: bold;
+}
+
+.per{
+    margin: 0;
+color: #9ea0a3;
+font-size: 20px;
+padding-top: 0;
+text-transform: uppercase;
+}
+
+hr{
+    width: 100%;
+margin: 15px 0 20px 0;
+padding: 0 0 0 0;
+float: left;
+height: 1px;
+background: #d2d2d2;
+}
